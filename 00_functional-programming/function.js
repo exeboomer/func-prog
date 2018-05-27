@@ -11,7 +11,7 @@ function getDate() {//не чистая функция, не принимает 
 }
 
 function save(data) { // не чистая
-    localStorage('data', data); //данные из вне + не возвращает ничего
+    localStorage.set('data', data); //данные из вне + не возвращает ничего
 }
 
 {
