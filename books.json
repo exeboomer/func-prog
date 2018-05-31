@@ -1,0 +1,35 @@
+[
+    {
+        "slug": "l-j",
+        "title": "lern js",
+        "author": "ethan br",
+        "publish": "orel",
+        "year": 2016,
+        "pages": 358,
+        "topic": "javascript-topic",
+        "description": "blablabla-descr",
+        "cover": "lern-js.jpg"
+    },
+    {
+        "slug": "l-j",
+        "title": "node-js",
+        "author": "ethan br",
+        "publish": "orel",
+        "year": 2016,
+        "pages": 358,
+        "topic": "node-js",
+        "description": "blablabla",
+        "cover": "node-js"
+    },
+    {
+        "slug": "l-j",
+        "title": "blablabla-js",
+        "author": "ethan br",
+        "publish": "orel",
+        "year": 2016,
+        "pages": 358,
+        "topic": "node-js",
+        "description": "blablabla",
+        "cover": "node-js"
+    }
+]
